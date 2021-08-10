@@ -1,6 +1,6 @@
 /**
  * Program that converts an arithmetic expression from infix notation to postfix notation.
- * Compilation : gcc Ip.c
+ * Compilation : gcc ip.c
  * Execution : ./a.out
  *
  * @vasu ( 1910990395 )  , 09/8/2021
