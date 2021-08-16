@@ -1,4 +1,4 @@
- * Program to implement Stack using Queues on Leetcode.
+ /* Program to implement Stack using Queues on Leetcode.
  * Compilation : gcc suq.c
  * Execution : ./a.out
  *
